@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 When you want to pass a value from a parent to multiple child components
 Passing single parameter
 
