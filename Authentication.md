@@ -1,4 +1,7 @@
-theme:jekyll-theme-tactile                                                                                                                                                 AUTHENTICATION & AUTHORIZATION
+theme:jekyll-theme-tactile                                                                                                                                                 
+
+
+                                                        AUTHENTICATION & AUTHORIZATION
 
 Microsoft.AspNetCore.Components.WebAssembly.Authentication + Microsoft.AspNetCore.Components.Authorization packages (Blazor WebAssembly)
 
