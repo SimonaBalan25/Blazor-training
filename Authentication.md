@@ -1,3 +1,9 @@
+layout: page
+title: "Authentication"
+permalink: /Authentication.md/
+                                                          
+                                                          
+                                                          
                                                           AUTHENTICATION & AUTHORIZATION
 
 Microsoft.AspNetCore.Components.WebAssembly.Authentication + Microsoft.AspNetCore.Components.Authorization packages (Blazor WebAssembly)
