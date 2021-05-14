@@ -1,0 +1,2 @@
+# Blazor-training
+SOC training
